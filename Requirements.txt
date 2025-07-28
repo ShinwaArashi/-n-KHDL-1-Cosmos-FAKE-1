@@ -1,0 +1,9 @@
+librosa
+numpy
+pandas
+scikit-learn
+faiss-cpu
+soundfile
+matplotlib
+gradio
+sys
